@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Greedy_Blue_Dot @GyuRiOh
+- 👋 Hi, I’m server_baby @GyuRiOh
 - 👀 I’m interested in 
 1) C, C++, C#
 2) Game Server Programming - socket, TCP/IP, IOCP, 
